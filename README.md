@@ -1,2 +1,2 @@
-# nyokabiwaiganjo.github.io
+# nyokabi.waiganjo.github.io
 My portfolio
